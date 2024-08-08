@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">HiMovie</string>
+    <string name="app_logo">App logo</string>
+    <string name="pixelh_97">Pixelh_97</string>
+    <string name="supervised_by_mohamed_nabil">supervised by Mohamed Nabil</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="browse">Browse</string>
+    <string name="watchlist">WatchList</string>
 </resources>
